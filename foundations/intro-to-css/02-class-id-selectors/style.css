@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+class, classcool {
+    background-color:rgb(228, 100, 121); font-family:Verdana, DejaVu Sans, sans-serif
+}
+
+#Number2 {
+    color: blue;font-size: 36px;
+}
+
+classcool {
+font-size: 32px;
+
+}
+
+#Number4 {
+
+ background-color: lightgreen; font-size: 24px; font-weight: bold   
+}
